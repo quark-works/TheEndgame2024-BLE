@@ -485,7 +485,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../TheENDGAME.step",
+      "step": "../../../TheENDGAME.step",
       "svg": "",
       "vrml": "../../../../../../../Downloads/TheENDGAME Topmount Rev 0.3.wrl"
     },
