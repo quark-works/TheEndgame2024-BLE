@@ -13,6 +13,7 @@ There's an updated version of the case with a slot for a battery, please measure
 ## FIRMWARE
 
 Included is a precompiled firmware ZMK Studio ready as well as the source I've used.
+Additionally there is a VIAL firmware if you are more familiar with that and do not need wireless capability. However you can only use this if you have a pro-micro rp2040 mcu installed on your pcb. Be aware that pinout is not the same as with SuperMini NRF52840 or nice!nano.
 
 
 ## MY BUILD
